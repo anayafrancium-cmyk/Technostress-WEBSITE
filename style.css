@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f7f8;
+}
+/* Styling for the Profile Picture */
+.profile-pic {
+    width: 200px;       /* Set the width */
+    height: 200px;      /* Set a different height for an oval shape */
+    border-radius: 50%; /* makes it rounded */
+     /* Prevents the image from stretching */
+     /* Centers the image */
+    border: 3px solid #020117;
+}
+
+/* Bullet point styling */
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+/* Navigation Bar */
+nav {
+    background: #1d1df1;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+
+
+/* Container for content */
+.container {
+    width: 85%;
+    margin: 0 ;
+    padding: 20px;
+    border-radius: 8px;
+    
+}
+
+/* Headings */
+h1, h2 {
+    color: #2c3e50;
+}
+
+
